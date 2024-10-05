@@ -44,17 +44,15 @@ Untuk menjalankan node kalkulator trigonometri, ikuti langkah-langkah berikut:
     ```bash
     ros2 topic pub /trig_operation std_msgs/String "{data: 'sin'}"
     ```
+<br>
 
-NB :
+## NB :
 
-royek ini membutuhkan:
+## Proyek ini membutuhkan:
 
 ROS 2 (diuji dengan Foxy)
 std_msgs untuk tipe pesan
 rclcpp untuk pustaka klien ROS 2
-
-
-
 
 
 ## Deskripsi Folder Remote Controller Menggunakan Flutter
@@ -72,3 +70,11 @@ rclcpp untuk pustaka klien ROS 2
 
 - **Cpp/**: Berisi kode-kode C++ untuk proyek lainnya.
 - **Ros2_Node/**: Folder yang berisi node ROS 2 untuk komunikasi antar robot atau sensor.# MyOwn-RosRobot
+
+
+
+<div align-items="center"> 
+   
+   # Thank Youu
+   
+   </div>
