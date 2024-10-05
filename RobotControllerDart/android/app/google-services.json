@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593001908081",
+    "project_id": "robot-controller-6558d",
+    "storage_bucket": "robot-controller-6558d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593001908081:android:fa6519070d7e56c7a3d8d0",
+        "android_client_info": {
+          "package_name": "com.shldnflh.robot_controller2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593001908081-19hcl2tijhms8k8meapi6cf1bs05rhfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-9GhcD9yRpdTM2YRF_np010ZK4U4C-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593001908081-19hcl2tijhms8k8meapi6cf1bs05rhfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
